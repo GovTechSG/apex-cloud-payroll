@@ -8,11 +8,11 @@ The swim-lane is shown below.
 
 Generally it consists of 4 sections: **_Corppass Setup_**, **_APEX Setup_**, **_Application Setup_** and **_Business API Test_**. The onboarding Steps are as below:
 
-## 1. Corpass Setup
+## 1. Corppass Setup
 
 The software developer (SWD) will often need to simulate the payroll process and role-play the company submitter.
 
-The Company which is registered with Corpass (which SWD is in) will need to register the User (SWD) to the Corpass Digital Service (e-service ID) - **"Apex Cloud"**. Read [here](https://docs.developer.tech.gov.sg/docs/apex-cloud-onboarding/docs/corppass).
+The Company which is registered with Corppass (which SWD is in) will need to register the User (SWD) to the Corppass Digital Service (e-service ID) - **"Apex Cloud"**. Read [here](https://docs.developer.tech.gov.sg/docs/apex-cloud-onboarding/docs/corppass).
 
 The User (SWD) then logs into the Developers Portal (www.api.developer.tech.gov.sg) using Singpass. Refer to [Step 1 here](https://docs.developer.tech.gov.sg/docs/apex-cloud-onboarding/docs/consumers?id=corppass-users).
 
