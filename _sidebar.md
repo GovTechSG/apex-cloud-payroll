@@ -1,2 +1,6 @@
-- **Home**
-  - [Overview](docs/home.md)
+- **Consumers**
+  - [Nomenclature of Consumer Guide](/docs/consumers/nomenclature.md)
+  - [Consumer Onboarding Steps](/docs/consumers/onboarding.md)
+  - [Create JWKS Endpoint](/docs/consumers/create-jwks-endpoint.md)
+  - [Authorization Code Flow](/docs/consumers/authz-token.md)
+  - [Sample Codes](/docs/consumers/sample-codes.md)
