@@ -40,7 +40,7 @@ The Authorization Code Flow is detailed [here](docs/consumers/authz-token).
 
 The Business API request through APEX requires these additional headers below.
 
-| S/No | Terms         | Meaning                                                   |
-| ---- | ------------- | --------------------------------------------------------- |
-| 1    | Authorization | Authorization Token obtained from Authorization Code flow |
-| 2    | x-apex-apikey | API Key obtained from Step 3 above                        |
+| Terms         | Meaning                                                   |
+| ------------- | --------------------------------------------------------- |
+| Authorization | Authorization Token obtained from Authorization Code flow |
+| x-apex-apikey | API Key obtained from Step 3 above                        |
