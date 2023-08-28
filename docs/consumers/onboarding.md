@@ -8,7 +8,7 @@ The swim-lane is shown below.
 
 Generally it consists of 4 sections: **_Corppass Setup_**, **_APEX Setup_**, **_Application Setup_** and **_Business API Test_**. The onboarding Steps are as below:
 
-## 1. Corpaass Setup
+## 1. Corpass Setup
 
 The software developer (SWD) will often need to simulate the payroll process and role-play the company submitter.
 
