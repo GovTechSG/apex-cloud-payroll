@@ -106,7 +106,7 @@ The specifications for the request to the Token Endpoint are as follows:
 
 **Client Assertion**<br>
 
-**{client_assertion}** is a JSON formatted list of claims based on RFC7523:
+**{client_assertion}** is a formatted list of claims based on RFC7523:
 
 | Claim | Information                                                                                                                                                                                                                 |
 | ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
