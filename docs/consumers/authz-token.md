@@ -100,7 +100,7 @@ The specifications for the request to the Token Endpoint are as follows:
 |                | 'client_assertion'                  | **{client assertion}** specified below                                                                                                   |
 |                | 'client_id'                         | String of Client ID obtained during onboarding [steps](docs/consumers/onboarding)                                                        |
 |                | 'client_assertion_type'             | 'urn:ietf:params:oauth:client-assertion-type:jwt-bearer'                                                                                 |
-|                | 'grant_type'                        | Authorization Code obtained in [Step 7 above](docs/consumers/authz-token?id=_7-client-extracts-authorization-code-from-redirect-uri)     |
+|                | 'grant_type'                        | 'authorization_code'                                                                                                                     |
 |                | 'redirect_uri'                      | String of exact redirect URI of Client Application in URL encoded format                                                                 |
 |                | 'code_verifier'                     | String of PKCE Code Verifier generated in [Step 2 above](docs/consumers/authz-token?id=_2-token-endpoint-request)                        |
 
